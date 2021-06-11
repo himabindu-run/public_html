@@ -512,7 +512,7 @@ section {
   vertical-align: middle;
   width: 250px;
   height: 200px;
-  border-radius: 50%;
+  border-radius: 100%;
 }
 
 .about .content h3 {
